@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+* {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Raleway';
+    background-color: #53131E;
+    color: #FFFACC;
+    padding: 5px;
+}
+
+.main-text, .histhead {
+    font-family: 'Spicy Rice';
+}
